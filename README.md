@@ -14,7 +14,7 @@ Team 14
 
 ## 🛠️ Technologies Used
 
-- Java 17  
+- Java 21  
 - Java Swing (GUI)  
 - Maven (build automation)  
 - Git & GitHub (version control)
